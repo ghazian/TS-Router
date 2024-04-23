@@ -1,11 +1,12 @@
 # TanStack router exploration
 
-Tring to understand how Tanstack router works by checking out its features against NextJS file based routing
+Tring to understand how Tanstack router works with most of its features. This is a personal project, by no means try and implement this yourselves, however I will try implementing the best practices for this.
 
 ## What is inside?
 
-This project uses many tools like:
+This project uses many tools, it's a bit of an overkill but hey:
 
+- [TanStack Router](https://tanstack.com/router/latest)
 - [Vite](https://vitejs.dev)
 - [ReactJS](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org)
