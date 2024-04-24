@@ -1,10 +1,10 @@
 # TanStack router exploration
 
-Tring to understand how Tanstack router works with most of its features. This is a personal project, by no means try and implement this yourselves, however I will try implementing the best practices for this.
+Tring to understand how Tanstack router works with most of its features. This is a personal project that I'm trying to learn.
 
 ## What is inside?
 
-This project uses many tools, it's a bit of an overkill but hey:
+This project uses many tools, it's a bit of an overkill:
 
 - [TanStack Router](https://tanstack.com/router/latest)
 - [Vite](https://vitejs.dev)
